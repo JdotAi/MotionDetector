@@ -7,4 +7,6 @@ pip install opencv-python numpy
 python motion_detector.py
 ```
 
+![Motion Detector Demo](moition_sample.gif)
+
 Press 'q' to quit.
